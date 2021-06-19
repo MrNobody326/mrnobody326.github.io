@@ -7,4 +7,6 @@ Welcome to my website!
 
 ## Latest video:
 
-## [Minecraft Archive](minearch.cub1c06.net)
+## [Minecraft Archive](mrnobody326.github.io/minearch)
+
+
